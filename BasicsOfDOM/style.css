@@ -1,0 +1,24 @@
+.hello{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Poppins', sans-serif;
+    top: 20px;
+}
+
+.text-container {
+    display: flex; 
+    gap: 20px; 
+    justify-content: center; 
+    align-items: center; 
+    top: -10px;
+}
+
+.text {
+    margin: -8px; /* Remove default margin of h3 */
+    font-family: 'Poppins', sans-serif;
+}
+.j{
+    color: blueviolet;
+    font-family: 'Poppins', sans-serif;
+    margin: -8px;
+}
